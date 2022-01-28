@@ -1,6 +1,6 @@
 package Git;
 
-public class TestCase 
+public class TestCase2 
 {
 	public static void main(String[] args) 
 	{

@@ -1,6 +1,6 @@
-package Git;
+package Branch;
 
-public class Sample 
+public class TestCase3 
 {
 	public static void main(String[] args) 
 	{
